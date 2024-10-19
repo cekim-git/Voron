@@ -1,5 +1,7 @@
 Simple Brush and magnetic pan for Voron350.
 
+License: GPL3.0
+
 Notes:
 - 6 magnets (3 on base, 3 on pan) are press-fit to dimensionally accurate (shrinkage adjusted ABS) and should not require glue.
 
